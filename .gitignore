@@ -1,0 +1,6 @@
+.settings/
+_backup/
+build/
+.classpath
+.project
+memo.txt
